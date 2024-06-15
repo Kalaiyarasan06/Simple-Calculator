@@ -4,6 +4,6 @@
 
 
 Features:
-->Basic arithmetic operations: addition, subtraction, multiplication, division.
-->User-friendly interface with buttons for numbers, operators, and functions.
-->Clear display for input and results.
+Basic arithmetic operations: addition, subtraction, multiplication, division.
+User-friendly interface with buttons for numbers, operators, and functions.
+Clear display for input and results.
